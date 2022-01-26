@@ -1,9 +1,9 @@
 // Foursquare API Info
-const foursquareKey = 'fsq3w07Zlcb6D+hJHAgjz823bZo2eWq6p3AI5bW//ML7tC0=';
+const foursquareKey = 'fsq3w07Zlcb6D+////ML7tC0=';
 const url = 'https://api.foursquare.com/v3/places/search?near=';
 
 // OpenWeather Info
-const openWeatherKey = 'cab308f3bd33e23a64e2e95b67d14ce8';
+const openWeatherKey = '//';
 const weatherUrl = 'https://api.openweathermap.org/data/2.5/weather';
 
 // Page Elements
